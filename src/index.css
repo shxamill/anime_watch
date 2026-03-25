@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000;
+  color: #fff;
+  /* Prevent bounce effect on scroll for cleaner Apple-like experience */
+  overscroll-behavior-y: none;
+}
+
+::selection {
+  background-color: #333;
+  color: #fff;
+}
