@@ -1,10 +1,10 @@
 # BENYAR Mechanical Watch — Landing Page
 
+[![CI](https://github.com/shxamill/benyar-watch-landing/actions/workflows/ci.yml/badge.svg)](https://github.com/shxamill/benyar-watch-landing/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Live site](https://img.shields.io/badge/Live-anime--watch--swart.vercel.app-black?logo=vercel)](https://anime-watch-swart.vercel.app)
+
 A React landing-page concept for a BENYAR mechanical watch. The project builds a product-story experience with scroll-driven visuals, feature sections, specifications, and pricing content.
 
-**Live demo:** https://anime-watch-ebon.vercel.app
-
-> **Repository-name note:** The GitHub repository is named anime_watch, but the current application is a mechanical-watch landing page, not an anime application. The repository slug is retained for now.
+**Live demo:** https://anime-watch-swart.vercel.app
 
 ## Built with
 
@@ -61,4 +61,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md), [CODE_OF_CON
 
 ## License
 
-No repository-level open-source license is currently provided. Do not assume the code, product imagery, or brand assets may be reused.
+This project is licensed under the [MIT License](LICENSE). BENYAR product names and product imagery belong to their respective owners and are not covered by this license.
