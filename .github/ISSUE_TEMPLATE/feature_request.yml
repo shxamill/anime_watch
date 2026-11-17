@@ -1,0 +1,23 @@
+name: Feature request
+description: Suggest a user-facing improvement.
+title: "[Feature]: "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What user need does this address?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+    validations:
+      required: true
+  - type: textarea
+    id: motion
+    attributes:
+      label: Performance and accessibility considerations
+      description: Note any animation, reduced-motion, or mobile concerns.
+    validations:
+      required: false
